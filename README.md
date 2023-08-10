@@ -16,7 +16,7 @@ With the help of different deep learning models, this project aims to detect met
 |`requirements.txt`|Lists all packages used for the project. Designed to be used with pip.|
 |`architecture`|Folder containing all the models that can be used.|
 |`data`|This folder is reserved for the image and label files.|
-|`trained_models`|This folder is reserved for the trained model files (*.pth). Trained models and results are also accesible via : ("[Google Drive](https://drive.google.com/drive/folders/1J2T7SwVcH8u0B5L8YRjKnpFaxbBXB3x2?usp=share_link)")
+|`trained_models`|This folder is reserved for the trained model files (*.pth). Trained models and results are also accesible via : ("[Google Drive](https://drive.google.com/drive/folders/1J2T7SwVcH8u0B5L8YRjKnpFaxbBXB3x2?usp=share_link)")|
 |`trained_models_data`|This folder contains training and testing stats.|
 |`README.md`|This file.|
 |`summary.pdf`|The project report.|
