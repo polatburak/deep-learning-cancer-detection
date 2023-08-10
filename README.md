@@ -1,6 +1,8 @@
 # histopathology-cancer-detection
 With the help of different deep learning models, this project aims to detect metastatic cancer in histopathology images of lymph node sections. For a brief demonstration you can see `demo.ipynb`. 
 
+![output](https://github.com/polatburak/deep-learning-cancer-detection/assets/100538337/ece5e3d2-4d46-4578-a9d5-8e4c926bd94f)
+
 -----------------------------------------------------------------------------------------------------------------------
 ## Project Structure
 ### Root-Folder:
